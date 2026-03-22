@@ -31,8 +31,5 @@ This project presents an interactive **Power BI dashboard** analyzing Walmart sa
 
 ---
 
-##  Files
 
-* walmart.pbix
-* walmart_sales_cleaned.csv
 
