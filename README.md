@@ -33,5 +33,5 @@ This project presents an interactive **Power BI dashboard** analyzing Walmart sa
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![image](dashboard.png)
 
